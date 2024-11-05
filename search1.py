@@ -6,7 +6,7 @@ import requests
 COMMON_TLDS = [".com", ".org", ".net", ".info", ".co", ".us", ".uk", ".ca", ".de", ".jp"]
 
 # Insert your ipinfo API key here
-IPINFO_API_KEY = 'a2c27a7defd6c7'
+IPINFO_API_KEY = '*******'
 
 def run_dig(domain):
     """Runs the dig command and returns the result."""
